@@ -67,9 +67,10 @@ This project helped me practice full-stack development, automation, backend desi
 ```bash
 cd server
 npm install
-npm run seed    # optional: adds sample data
-npm start       # starts API on http://localhost:4000
+npm run seed    
+npm start    
 ```
+starts API on  http://localhost:4000
 
 ### 2. Start the Incident Simulator
 Open another terminal window:
